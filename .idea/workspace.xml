@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="271f66f6-19b1-42ab-ade6-c0a528bc11a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/PalindromicSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/TaskScheduler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
