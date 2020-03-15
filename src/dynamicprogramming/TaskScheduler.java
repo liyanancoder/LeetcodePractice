@@ -3,7 +3,7 @@ package dynamicprogramming;
 import java.util.Arrays;
 
 /**
- * leetcode 621:
+ * leetcode 621:任务调度器
  * https://leetcode-cn.com/problems/task-scheduler/
  */
 public class TaskScheduler {

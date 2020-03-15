@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="271f66f6-19b1-42ab-ade6-c0a528bc11a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/PalindromicSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/TaskScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/BurstBallons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/FrogJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/LongestValidParenthese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/MaxSumOfRectangleNoLargerThanK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/MinimumWindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/SplitArrayLargestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/StudentAttendanceRecord2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamicprogramming/PalindromicSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/PalindromicSubstrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

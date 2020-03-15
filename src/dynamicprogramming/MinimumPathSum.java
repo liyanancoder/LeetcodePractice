@@ -1,7 +1,7 @@
 package dynamicprogramming;
 
 /**
- * leetcode 64:
+ * leetcode 64:最小路径和
  * https://leetcode-cn.com/problems/minimum-path-sum/
  */
 //方法一：二维DP 时间复杂度O(mn) 空间复杂度O(mn)

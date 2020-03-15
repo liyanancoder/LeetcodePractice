@@ -1,7 +1,7 @@
 package dynamicprogramming;
 
 /**
- * leetcode 91:
+ * leetcode 91:解码方法
  * https://leetcode-cn.com/problems/decode-ways/
  */
 

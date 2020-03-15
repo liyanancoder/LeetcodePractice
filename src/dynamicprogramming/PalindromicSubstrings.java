@@ -1,7 +1,7 @@
 package dynamicprogramming;
 
 /**
- * leetcode 647
+ * leetcode 647 回文子串
  * https://leetcode-cn.com/problems/palindromic-substrings/
  */
 public class PalindromicSubstrings {
