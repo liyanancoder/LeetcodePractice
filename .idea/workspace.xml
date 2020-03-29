@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="271f66f6-19b1-42ab-ade6-c0a528bc11a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/BurstBallons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/FrogJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/LongestValidParenthese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/MaxSumOfRectangleNoLargerThanK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/MinimumWindowSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/SplitArrayLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/StudentAttendanceRecord2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitoperation/CountingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitoperation/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitoperation/NQueens2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitoperation/NumberOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitoperation/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitoperation/ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lrucache/LruCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/RelativeSortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/ReversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/ValidAnagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicprogramming/PalindromicSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/PalindromicSubstrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,5 +60,9 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1584171316086" />
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1585465761335">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1585465761335" />
   </component>
 </project>
