@@ -2,15 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="271f66f6-19b1-42ab-ade6-c0a528bc11a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Threesum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hash/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hash/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hash/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/LinkedListCycle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/ReverseNodesInKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/SwapNodesInPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/BinaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/NAryTreePostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/NAryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackandqueue/DesignCircularDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackandqueue/LargestRectangleInHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackandqueue/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackandqueue/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackandqueue/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackandqueue/ValidParenthese.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bitoperation/CountingBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bitoperation/CountingBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bitoperation/NumberOf1Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bitoperation/NumberOf1Bits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bitoperation/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bitoperation/PowerOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bitoperation/ReverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bitoperation/ReverseBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lrucache/LruCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lrucache/LruCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/RelativeSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/RelativeSortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/ReversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/ReversePairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/ValidAnagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
